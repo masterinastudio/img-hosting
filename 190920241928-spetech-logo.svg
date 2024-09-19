@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 871.69 244.95">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SUSE-ExtraBold, SUSE;
+        font-size: 230px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        fill: #f27405;
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 195.5)"><tspan class="cls-3" x="0" y="0">sp</tspan><tspan class="cls-2" x="243.57" y="0">e</tspan><tspan class="cls-4" x="363.4" y="0">t</tspan><tspan class="cls-3" x="449.19" y="0">ech</tspan><tspan class="cls-5" x="815.57" y="0">.</tspan></text>
+</svg>
